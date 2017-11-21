@@ -1,7 +1,5 @@
 # Intro to training 
 
-Hello I'm Yoshi Tamori
-
 * Installation
 	- check installation: local or docker 
 	- check who knows what
