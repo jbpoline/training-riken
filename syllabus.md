@@ -4,6 +4,7 @@
 	- check installation: local or docker 
 	- check who knows what
         - I think you should add this part :):) Carlos. 
+        - This modification is going to branch_1.
 
 * p-value questionnaire
 		[Start here](http://www.reproducibleimaging.org/module-stats/03-p-values/)
